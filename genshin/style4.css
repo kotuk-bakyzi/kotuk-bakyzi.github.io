@@ -1,0 +1,60 @@
+.dd {
+    background: linear-gradient(rgba(0, 0, 0, 0.316), rgba(0, 0, 0, 0.218)), url(Symery.jpg);
+    text-align: center;
+    height: 600px;
+    background-size: cover;
+}
+
+.dd h2 {
+    color: rgb(0, 189, 38);
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+.mmonn {
+    width: 100px;
+}
+.lii {
+    width: 100px;
+}
+.rrr {
+    width: 100px;
+}.ssr {
+    width: 100px;
+}
+
+
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, #52be78, #099134);
+}
+
+.navbar {
+    background-color: #1ab357;
+}
+
+.logoo {
+    color: rgb(146, 231, 255);
+    text-align: center
+}
+h1 {
+    font-family: "Playfair Display", serif;
+    color: rgb(157, 255, 248);
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    color: rgb(192, 255, 249);
+      text-align: center;
+}
+
+p {
+    color: rgb(253, 253, 173);
+}

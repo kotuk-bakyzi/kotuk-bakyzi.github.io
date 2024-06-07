@@ -1,0 +1,88 @@
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, #0b3655, #168ab5);
+}
+
+.navbar {
+    background-color: #567dbb;
+}
+
+.logoo {
+    color: rgb(173, 226, 253);
+    text-align: center
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    color: rgb(137, 162, 232);
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    color: rgb(137, 162, 232);
+}
+
+p {
+    color: rgb(173, 226, 253);
+}
+
+.qw {
+    width: 500px;
+}
+
+.pp img {
+    width: 400px;
+}
+
+.mmonn {
+    width: 100px;
+}
+
+.lii {
+    width: 100px;
+}
+
+.rrr {
+    width: 100px;
+}
+.ssr {
+    width: 100px;
+}
+
+.ll {
+    width: 1000px;
+}
+
+.tt {
+    width: 2000px;
+}
+
+.vat {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Playfair Display", serif;
+    color: rgb(137, 162, 232);
+}
+
+i {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+}
+
+/* 
+font-family: "Sedan", serif;
+font-family: "Comfortaa", sans-serif;
+
+*/

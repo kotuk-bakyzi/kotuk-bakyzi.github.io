@@ -1,0 +1,61 @@
+.mm {
+    background: linear-gradient(rgba(0, 0, 0, 0.316), rgba(0, 0, 0, 0.218)), url(mm.jpg);
+    text-align: center;
+    height: 600px;
+    background-size: cover;
+}
+
+.mm h2 {
+    color: rgb(66, 232, 176);
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+.mmonn {
+    width: 100px;
+}
+.lii {
+    width: 100px;
+}
+.rrr {
+    width: 100px;
+}
+.ssr {
+    width: 100px;
+}
+
+
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, #0b3655, #168ab5);
+}
+
+.navbar {
+    background-color: #567dbb;
+}
+
+.logoo {
+    color: rgb(173, 226, 253);
+    text-align: center
+}
+h1 {
+    font-family: "Playfair Display", serif;
+    color: rgb(137, 162, 232);
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    color: rgb(137, 162, 232);
+      text-align: center;
+}
+
+p {
+    color: rgb(173, 226, 253);
+}

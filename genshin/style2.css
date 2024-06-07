@@ -1,0 +1,60 @@
+.dd {
+    background: linear-gradient(rgba(0, 0, 0, 0.316), rgba(0, 0, 0, 0.218)), url(Li\ Ye.jpg);
+    text-align: center;
+    height: 600px;
+    background-size: cover;
+}
+
+.dd h2 {
+    color: rgb(195, 126, 16);
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+.mmonn {
+    width: 100px;
+}
+.lii {
+    width: 100px;
+}
+
+.rrr {
+    width: 100px;
+}.ssr {
+    width: 100px;
+}
+
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, #beaa52, #914b09);
+}
+
+.navbar {
+    background-color: #b34b1a;
+}
+
+.logoo {
+    color: rgb(255, 172, 95);
+    text-align: center
+}
+h1 {
+    font-family: "Playfair Display", serif;
+    color: rgb(232, 196, 137);
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    color: rgb(232, 191, 137);
+      text-align: center;
+}
+
+p {
+    color: rgb(253, 253, 173);
+}

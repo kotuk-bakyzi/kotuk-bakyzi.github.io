@@ -1,0 +1,60 @@
+.dd {
+    background: linear-gradient(rgba(0, 0, 0, 0.316), rgba(0, 0, 0, 0.218)), url(Inadzyma.jpg);
+    text-align: center;
+    height: 600px;
+    background-size: cover;
+}
+
+.dd h2 {
+    color: rgb(187, 0, 255);
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+.mmonn {
+    width: 100px;
+}
+.lii {
+    width: 100px;
+}
+.rrr {
+    width: 100px;
+}.ssr {
+    width: 100px;
+}
+
+
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 100px;
+}
+
+body {
+    background-image: linear-gradient(to right, #7f52be, #7d0991);
+}
+
+.navbar {
+    background-color: #551ab3;
+}
+
+.logoo {
+    color: rgb(146, 231, 255);
+    text-align: center
+}
+h1 {
+    font-family: "Playfair Display", serif;
+    color: rgb(157, 255, 248);
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    color: rgb(192, 255, 249);
+      text-align: center;
+}
+
+p {
+    color: rgb(253, 253, 173);
+}
